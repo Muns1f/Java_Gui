@@ -105,7 +105,7 @@ public class MyListener implements ActionListener {
         if(e.getSource() == DataVar.ShowUsersInfo){
             
             JOptionPane.showMessageDialog(null,
-                "Username : Munsif " + "\n" + "Password : 123" + "\n" + "------------------------------------" + "\n" + "Username : Mohamed " + "\n" + "Password : mohamed123" + "\n" + "------------------------------------" + "\n" + "Username : Ahmed " + "\n" + "Password : ahmed" + "\n");
+                "Username : admin " + "\n" + "Password : admin" + "\n" + "------------------------------------" + "\n" + "Username : 123 " + "\n" + "Password : 123" + "\n" + "------------------------------------" + "\n" + "Username : Ahmed " + "\n" + "Password : ahmed" + "\n");
         }
 
      } // Method Override
